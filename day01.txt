@@ -8,3 +8,13 @@ Code / File
 
 Laptop to github
 ----
+
+1. git init
+
+2. git add .
+
+3. git remote add origin "repo url"
+
+4. git commit -m "day01"
+
+5. git push origin main
