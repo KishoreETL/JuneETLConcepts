@@ -18,3 +18,5 @@ Laptop to github
 4. git commit -m "day01"
 
 5. git push origin main
+
+day 01 completed
